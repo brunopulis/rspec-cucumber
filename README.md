@@ -1,3 +1,3 @@
-# Cucumber with RSpec
+# Rspec and Cucumber
 
-
+> RSpec and Cucumber Studies
